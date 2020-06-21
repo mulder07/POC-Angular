@@ -1,0 +1,46 @@
+[
+    {
+        "poId": 0.7419397662758234,
+        "companyName": "My Company 1",
+        "companyAddress": "888/20 Moo 10",
+        "customerAddress": "888/20 Moo 11",
+        "poNumber": "201304103001",
+        "poDate": "2020-06-01T00:00:00.000Z",
+        "products": [
+            {
+                "productName": "Product 1",
+                "productAmount": 5,
+                "productPrice": 200
+            },
+            {
+                "productName": "Product 2",
+                "productAmount": 10,
+                "productPrice": 150
+            }
+        ],
+        "poCreated": "2020-06-21T08:26:20.321Z",
+        "poUpdated": "2020-06-21T08:26:20.321Z"
+    },
+    {
+        "poId": 0.029368253674376232,
+        "companyName": "My Company 2",
+        "companyAddress": "888/20 Moo 10",
+        "customerAddress": "888/20 Moo 11",
+        "poNumber": "201304103002",
+        "poDate": "2020-06-01T00:00:00.000Z",
+        "products": [
+            {
+                "productName": "Product 4",
+                "productAmount": 50,
+                "productPrice": 100
+            },
+            {
+                "productName": "Product 5",
+                "productAmount": 150,
+                "productPrice": 100
+            }
+        ],
+        "poCreated": "2020-06-21T08:27:28.401Z",
+        "poUpdated": "2020-06-21T08:27:28.401Z"
+    }
+]
